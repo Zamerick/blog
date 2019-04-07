@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"  viewBox="0 0 125 125" >
+    <g id="envelope">
+        <polyline id="envelope_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#607080;fill-opacity:0.5"/>
+        <polyline id="envelope_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#607080;fill-opacity:0.5"/>
+        <path id="envelope_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#353E47;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path d="M18 2a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h16zm-4.37 9.1L20 16v-2l-5.12-3.9L20 6V4l-10 8L0 4v2l5.12 4.1L0 14v2l6.37-4.9L10 14l3.63-2.9z" style="fill:#ACB5BF" transform="translate(22.5 25) scale(3)"/>
+    </g>
+</svg>

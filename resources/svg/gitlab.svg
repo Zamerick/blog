@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"  viewBox="0 0 125 125">
+    <g id="gitlab">
+        <polyline id="gitlab_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#554488;fill-opacity:0.5"/>
+        <polyline id="gitlab_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#554488;fill-opacity:0.5"/>
+        <path id="gitlab_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#554488;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path id="right_ear" d="M86.68,53.6H71.11L77.8,33A1.15,1.15,0,0,1,80,33L86.68,53.6Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+        <path id="right_outer_triangle" d="M86.68,53.6h0L90.05,64a2.3,2.3,0,0,1-.84,2.57L60,87.79,86.68,53.6Z" style="fill:#faa327" transform="translate(-7.5 -2.01)"/>
+        <path id="right_middle_triangle" d="M60,87.79,71.11,53.6H86.68L60,87.79Z" style="fill:#f36e2c" transform="translate(-7.5 -2.01)"/>
+        <path id="center_triangle" d="M60,87.79h0L71.11,53.6H48.89L60,87.79Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+        <path id="left_middle_triangle" d="M60,87.79,48.89,53.6H33.32L60,87.79Z" style="fill:#f36e2c" transform="translate(-7.5 -2.01)"/>
+        <path id="left_outer_triangle" d="M33.32,53.6h0L29.95,64a2.3,2.3,0,0,0,.84,2.57L60,87.79,33.32,53.6Z" style="fill:#faa327" transform="translate(-7.5 -2.01)"/>
+        <path id="left_ear" d="M33.32,53.6H48.89L42.2,33A1.15,1.15,0,0,0,40,33L33.32,53.6Z" style="fill:#e2452a" transform="translate(-7.5 -2.01)"/>
+    </g>
+</svg>

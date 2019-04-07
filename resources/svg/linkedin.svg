@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"  viewBox="0 0 125 125">
+    <g id="linkedin">
+        <polyline id="linkedin_shade_offset" points="12.03 93.71 3.53 85.52 3.57 30.6 52.83 1.54 93.54 22.59" style="fill:#5cacdf;fill-opacity:0.5"/>
+        <polyline id="linkedin_shade_half" points="2.5 86.62 2.5 29.35 52.5 0.72 102.5 29.35" style="fill:#5cacdf;fill-opacity:0.5"/>
+        <path id="linkedin_frame" d="M15.88,28,54.19,6.06a11.69,11.69,0,0,1,11.62,0L104.12,28A11.69,11.69,0,0,1,110,38.15V81.85A11.69,11.69,0,0,1,104.12,92L65.81,113.94a11.69,11.69,0,0,1-11.62,0L15.88,92A11.69,11.69,0,0,1,10,81.85V38.15A11.69,11.69,0,0,1,15.88,28Z" style="stroke:#5cacdf;fill:none;stroke-miterlimit:10;stroke-width:5px" transform="translate(-7.5 -2.01)"/>
+        <path id="linkedin_i" d="M44.2,39.66a3.92,3.92,0,0,1-7.85,0,3.86,3.86,0,0,1,4-4A3.76,3.76,0,0,1,44.2,39.66ZM37.14,84.3V49.45h6.34V84.3Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+        <path id="linkedin_n" d="M54,58.88c0-3.6-.07-6.55-.29-9.43h5.62l.36,5.76h.14a12.82,12.82,0,0,1,11.52-6.55c4.82,0,12.31,2.88,12.31,14.83V84.3H77.32V64.21c0-5.62-2.09-10.3-8.07-10.3a9,9,0,0,0-8.5,6.48,9.11,9.11,0,0,0-.43,3v21H54Z" style="fill:#ffffff" transform="translate(-7.5 -2.01)"/>
+    </g>
+</svg>
